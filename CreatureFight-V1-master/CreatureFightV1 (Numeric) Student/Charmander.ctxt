@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Charmander
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Charmander\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=world
+comment1.target=Charmander(greenfoot.World)
+comment1.text=\r\n\ TODO\ (18)\:\ Create\ a\ constructor\ for\ Charmander\ that\ has\ a\ World\ parameter\ called\ world\r\n\ \r\n\ TODO\ (19)\:\ Use\ the\ Creature\ constructor\ to\ initialize\ the\ health\ and\ ownership\ of\ Charmander.\r\n\ \ \ \ \ \ \ \ \ \ \ \ To\ do\ this,\ use\ the\ following\ line\:\ super(700,\ 1);\ (super\ as\ in\ "superclass").\ This\r\n\ \ \ \ \ \ \ \ \ \ \ \ uses\ the\ Creature(int\ health,\ int\ whichPlayer)\ constructor\ to\ set\ the\ healthNumber\ for\r\n\ \ \ \ \ \ \ \ \ \ \ \ Charmander\ to\ 700\ and\ the\ playerOwnership\ to\ 1\r\n\ \r\n\ TODO\ (20)\:\ Next,\ get\ the\ image\ for\ this\ class,\ and\ scale\ it\ to\ a\ width\ of\ 150\ and\ a\ height\ of\ 100\r\n\ \r\n\ TODO\ (21)\:\ Use\ your\ World\ parameter\ to\ add\ an\ object\ to\ the\ world.\ You\ will\ add\ Charmander's\ health\ bar\r\n\ \ \ \ \ \ \ \ \ \ \ \ by\ using\ the\ getHealthBar()\ method\ as\ the\ first\ parameter\ and\ adding\ it\ at\ an\ x\ location\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ of\ 300\ and\ a\ y\ location\ of\ the\ height\ of\ the\ world\ -\ 50\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Charmander\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

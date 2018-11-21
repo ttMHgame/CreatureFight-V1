@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CreatureWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CreatureWorld()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ CreatureWorld.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ an\ object\ of\ class\ CreatureWorld\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ will\ complete\ actions\ that\ the\ CreatureWorld\ object\ should\r\n\ accomplish\ while\ the\ scenario\ is\ running\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ prepareCreatures()
+comment3.text=\r\n\ TODO\ (27)\:\ Declare\ a\ prepareCreatures\ method\ that\ has\ no\ return\ type\ and\ no\ parameters\r\n\ \r\n\ TODO\ (28)\:\ Inside\ the\ method,\ write\ code\ to\ add\ the\ playerOneCreature\ object\ to\ the\ world\r\n\ \ \ \ \ \ \ \ \ \ at\ an\ x\ location\ of\ playerOneCreature.getImage().getWidth()/2\ and\ a\ y\ location\r\n\ \ \ \ \ \ \ \ \ \ of\ getHeight()\ -\ playerOneCreature.getImage().getHeight()/2\ (this\ will\ add\ the\r\n\ \ \ \ \ \ \ \ \ \ playerOneCreature\ at\ the\ bottom\ left\ corner\ of\ the\ world)\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ TODO\ (29)\:\ Underneath\ the\ line\ that\ adds\ the\ playerOneCreature,\ add\ a\ new\ Button\ object\ that\ \r\n\ \ \ \ \ \ \ \ \ \ \ has\ the\ color\ RED\ and\ a\ value\ of\ 50\ at\ an\ x\ location\ of\ getWidth()/2\ and\ a\ y\r\n\ \ \ \ \ \ \ \ \ \ \ location\ of\ getHeight()\ -\ 100\r\n\ \ \ \ \ \ \ \ \ \ \ \r\n\ TODO\ (30)\:\ Underneath\ the\ lines\ that\ add\ the\ playerOneCreature\ and\ attack\ button,\ add\ the\r\n\ \ \ \ \ \ \ \ \ \ \ playerTwoCreature\ to\ the\ world\ at\ an\ x\ location\ of\ getWidth()\ -\ playerTwoCreature.getImage().getWidth()/2\r\n\ \ \ \ \ \ \ \ \ \ \ and\ a\ y\ location\ of\ playerTwoCreature.getHeight()/2\ (this\ will\ add\ the\ playerTwoCreature\r\n\ \ \ \ \ \ \ \ \ \ \ to\ the\ top\ right\ corner\ of\ the\ world)\r\n\ \r\n\ TODO\ (31)\:\ Underneath\ the\ line\ that\ adds\ the\ playerTwoCreature,\ add\ a\ new\ Button\ object\ that\r\n\ \ \ \ \ \ \ \ \ \ \ has\ the\ color\ RED\ and\ a\ value\ of\ 50\ at\ an\ x\ location\ of\ getWidth()/2\ and\ a\ y\ \r\n\ \ \ \ \ \ \ \ \ \ \ location\ of\ 100.9\r\n\ \ \ \ \r\n\ \ \ \ \r\n\ \ \ \ /**\r\n\ TODO\ (2)\:\ Declare\ a\ public\ method\ called\ getPlayerOne\ that\ returns\ a\ Creature\ object\ and\r\n\ \ \ \ \ \ \ \ \ \ \ has\ no\ parameters\r\n\ \ \ \ \ \ \ \ \ \ \ \r\n\ \r\n\ TODO\ (3)\:\ The\ one\ thing\ this\ method\ should\ do\ is\ return\ the\ playerOneCreature\r\n
+comment4.params=
+comment4.target=Creature\ getPlayerOne()
+comment4.text=\r\n\ TODO\ (4)\:\ Declare\ a\ public\ method\ called\ getPlayerTwo\ that\ returns\ a\ Creature\ object\ and\r\n\ \ \ \ \ \ \ \ \ \ \ has\ no\ parameters.\ You\ should\ be\ available\ to\ figure\ out\ what\ this\ method\ does\r\n\ \ \ \ \ \ \ \ \ \ \ from\ the\ previous\ two\ TODOs\r\n
+comment5.params=
+comment5.target=Creature\ getPlayerTwo()
+numComments=6
